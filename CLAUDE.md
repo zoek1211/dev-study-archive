@@ -7,7 +7,7 @@ Lecture study notes. Each topic is one Archify explainer page, written in Korean
 1. Read the lecture page and its code. Clone the code repo into the scratchpad, not into this repo.
 2. Build the page with the `archify` skill (explainer, `@meta locale=ko`). Pass `--repo-root <clone>` when the draft uses `@code`. Work in `.archify/` (gitignored).
 3. Copy the result into `<topic-slug>/index.html` and the draft into `<topic-slug>/source.archify.md`.
-4. Add a row to the table of contents in `README.md`.
+4. Add a row to the table of contents in `README.md`, linking `https://zoek1211.github.io/dev-study-archive/<topic-slug>/` (GitHub Pages serves `main` from the root with Jekyll, which renders README.md as the home page and copies the HTML pages unchanged).
 5. Check that no local paths (`/Users/...`, `/private/tmp/...`) ended up in the committed files, then commit and push.
 
 ## Editing an existing topic

@@ -6,7 +6,7 @@
 
 | 주제 | 원본 강의 | 정리 페이지 |
 | --- | --- | --- |
-| 스프링부트 REST API (1~79강) | [slog.gg 14172](https://www.slog.gg/p/14172) · [강의 코드](https://github.com/jhs512/p-14172-2) | [spring-rest-api](spring-rest-api/index.html) |
+| 스프링부트 REST API (1~79강) | [slog.gg 14172](https://www.slog.gg/p/14172) · [강의 코드](https://github.com/jhs512/p-14172-2) | [웹에서 보기](https://zoek1211.github.io/dev-study-archive/spring-rest-api/) |
 
 ## 폴더 구조
 
@@ -18,7 +18,9 @@
 
 ## 보는 법
 
-GitHub 화면에서는 HTML이 코드로만 보입니다. 리포를 받은 뒤 `index.html`을 브라우저로 열어 주세요.
+GitHub Pages로 공개되어 있습니다: https://zoek1211.github.io/dev-study-archive/
+
+각 주제는 `https://zoek1211.github.io/dev-study-archive/<주제-slug>/` 주소에서 열립니다.
 
 ## 출처
 
